@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (5.6.4)
+  - SDWebImage (5.15.0):
+    - SDWebImage/Core (= 5.15.0)
+  - SDWebImage/Core (5.15.0)
+  - SnapKit (5.6.0)
+  - UIMultiPicker (0.6.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - SDWebImage (~> 5.0)
+  - SnapKit
+  - UIMultiPicker
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - SDWebImage
+    - SnapKit
+    - UIMultiPicker
+
+SPEC CHECKSUMS:
+  Alamofire: 4e95d97098eacb88856099c4fc79b526a299e48c
+  SDWebImage: 9bec4c5cdd9579e1f57104735ee0c37df274d593
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  UIMultiPicker: 29bf824c5251822ca4040b933f6204e617e6ba3f
+
+PODFILE CHECKSUM: 984431a5edd7c6583c6c6340db5c138961cf647c
+
+COCOAPODS: 1.11.3
