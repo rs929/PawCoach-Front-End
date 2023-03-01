@@ -13,9 +13,15 @@ Before running, make sure to run:
 
 To install the proper CocoaPods to run the app
 
-##Screenshots
-<img src="coffee-screenshots/feed.png" width="200" height="425">
-<img src="coffee-screenshots/feed.png" width="200" height="425">
-<img src="coffee-screenshots/feed.png" width="200" height="425">
+## Screenshots
+
+# Login and Onboarding
+<img src="pawcoach-screenshots/login.png" width="200" height="425"> <img src="pawcoach-screenshots/createacc.png" width="200" height="425">
+
+# Homepage, Article view
+<img src="pawcoach-screenshots/home.png" width="200" height="425"> <img src="pawcoach-screenshots/article.png" width="200" height="425">
+
+# Matches view, and Feed
+<img src="pawcoach-screenshots/match.png" width="200" height="425"> <img src="pawcoach-screenshots/feed.png" width="200" height="425">
 
 
